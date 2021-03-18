@@ -1,6 +1,8 @@
 import React from 'react';
 import {View, Text, StyleSheet, Button} from 'react-native';
 
+import styles from './src/styles';
+
 
 const Counter = () => {
     return (
@@ -13,7 +15,7 @@ const Counter = () => {
 }
 export default Counter;
 
-const styles = StyleSheet.create({
+/**const styles = StyleSheet.create({
     container:{
         flex:1,
         alignItems: 'center',
@@ -21,6 +23,6 @@ const styles = StyleSheet.create({
         //colors: "#5c502c",
         //backgroundColor: "#ffff",
     }
-});
+});**/
 
 
