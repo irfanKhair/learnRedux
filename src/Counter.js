@@ -15,14 +15,4 @@ const Counter = () => {
 }
 export default Counter;
 
-/**const styles = StyleSheet.create({
-    container:{
-        flex:1,
-        alignItems: 'center',
-        justifyContent: 'center',
-        //colors: "#5c502c",
-        //backgroundColor: "#ffff",
-    }
-});**/
-
 
